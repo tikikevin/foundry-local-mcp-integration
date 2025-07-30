@@ -154,4 +154,4 @@ You should see:
   3. Invoke corresponding MCP HTTP endpoints.  
   4. Send a follow-up LLM call with the tool outputs.  
 
-This pattern effectively bridges Foundry Local’s inference with your local MCP servers—no cloud Agent Service needed. Let me know if you need deeper dives into authentication, streaming responses, or custom orchestration!
+This pattern effectively bridges Foundry Local’s inference with your local MCP servers—no cloud Agent Service needed.
